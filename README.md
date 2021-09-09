@@ -6,11 +6,7 @@ A new criterion of classification of atoms present in a bulk metallic glassy all
 
 Here are some results or outputs:
 
-1) 
 ![alt text](https://github.com/manju838/Atomic-Classification/blob/01e4e571ccb37a0aed2806baac0a7351932a22d3/Images/class1.png)
-2) 
 ![alt text](https://github.com/manju838/Atomic-Classification/blob/01e4e571ccb37a0aed2806baac0a7351932a22d3/Images/class2.png)
-3)
 ![alt text](https://github.com/manju838/Atomic-Classification/blob/01e4e571ccb37a0aed2806baac0a7351932a22d3/Images/class3.png)
-4) 
 ![alt text](https://github.com/manju838/Atomic-Classification/blob/01e4e571ccb37a0aed2806baac0a7351932a22d3/Images/class4.png)
